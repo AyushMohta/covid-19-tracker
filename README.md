@@ -1,6 +1,6 @@
 # Covid 19 Tracker 
 
-In this application, you can track the covid cases (No of total cases, No of total deaths, No of cases for today, etc.) of any country or worldwide respectively. Moreover, I'm getting the covid cases data from [**https://disease.sh/**] API.
+In this application, you can track the covid cases (No of total cases, No of total deaths, No of recovered cases, etc.) of any country or worldwide respectively. Moreover, I'm getting the covid cases data from [**https://disease.sh/**] API.
 
 ## Available Scripts
 
