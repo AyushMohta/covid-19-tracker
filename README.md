@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Covid 19 Tracker 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this application, you can track the covid cases (No of total cases, No of total deaths, No of cases for today, etc.) of any country respectively. Moreover, I'm getting the covid cases data from [**https://disease.sh/**] API.
 
 ## Available Scripts
 
